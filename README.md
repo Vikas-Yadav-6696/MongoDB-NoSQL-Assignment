@@ -16,7 +16,7 @@
 ---
 
 ## 📌 Project Overview
-This repository contains a **MongoDB (NoSQL) Assignment** demonstrating practical database operations and real-world query handling.
+This repository contains a **MongoDB (NoSQL) Project** demonstrating practical database operations and real-world query handling.
 
 ### 🔍 Key Concepts Covered:
 - CRUD Operations
