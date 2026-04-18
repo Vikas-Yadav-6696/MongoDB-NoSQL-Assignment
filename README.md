@@ -1,4 +1,4 @@
-# 📊 MongoDB / NoSQL Assignment
+# 📊 MongoDB / NoSQL Project
 
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-green?logo=mongodb)
 ![NoSQL](https://img.shields.io/badge/Type-NoSQL-blue)
